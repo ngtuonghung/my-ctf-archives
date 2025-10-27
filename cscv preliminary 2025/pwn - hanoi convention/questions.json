@@ -1,0 +1,482 @@
+[
+  {
+    "question": "What is the primary objective of the UN Cybercrime Convention?",
+    "options": [
+      "1. To create a unified global operating system for cybersecurity",
+      "2. To establish an international legal framework for preventing, criminalizing, and cooperating on cybercrime",
+      "3. To replace all national criminal laws on cybercrime",
+      "4. To define mandatory encryption standards for all member states"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "How does the Convention define 'electronic data'?",
+    "options": [
+      "1. Only text data stored in computers",
+      "2. Any representation of information suitable for processing in an ICT system, including a program",
+      "3. Only multimedia content such as audio or video",
+      "4. Only data owned by governments"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "What is the meaning of an 'ICT system' in the Convention?",
+    "options": [
+      "1. Only government servers",
+      "2. Any device or group of devices that processes electronic data, including interrelated components",
+      "3. Only Internet-connected broadband devices",
+      "4. Only computers and smartphones"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Which of the following best distinguishes traffic data from content data?",
+    "options": [
+      "1. Traffic data indicates routing, source/destination, timestamps; it does not include the substance of communication",
+      "2. Traffic data includes full message content",
+      "3. Content data only includes IP addresses and time information",
+      "4. The two are equivalent in meaning"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "What does 'subscriber information' usually cover under the Convention?",
+    "options": [
+      "1. The actual contents of communications (text, audio, video)",
+      "2. Identifying details of the subscriber: name, address, billing info, etc.",
+      "3. The source code of service providers",
+      "4. Encrypted messages"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Which article defines 'illegal access' (unauthorized access)?",
+    "options": [
+      "1. Article 10 - System interference",
+      "2. Article 6 - Illegal access (unauthorized access to an ICT system)",
+      "3. Article 7 - Illegal interception",
+      "4. Article 12 - Computer-related fraud"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "What is 'illegal interception' under the Convention?",
+    "options": [
+      "1. Seizing hardware to access stored data",
+      "2. Secretly intercepting data in transit without authorization",
+      "3. Deleting data from a system",
+      "4. Automatically backing up data"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "What constitutes 'interference with electronic data'?",
+    "options": [
+      "1. Authorized data copying",
+      "2. Unauthorized alteration, deletion, or corruption of data",
+      "3. Accessing public data on websites",
+      "4. Compression of files to save space"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "What is 'system interference' according to the Convention?",
+    "options": [
+      "1. Configuring firewalls for security",
+      "2. Deliberately disrupting or degrading the functioning of an ICT system unlawfully",
+      "3. Debugging software for performance",
+      "4. Routine backup operations"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "What is the principal aim of computer-related fraud in the Convention?",
+    "options": [
+      "1. Creating poetry via computer",
+      "2. Using deception via ICT to obtain property or advantage unlawfully",
+      "3. Sharing open-source tools",
+      "4. Copying materials for academic use"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "How does the Convention address online child sexual exploitation material (CSEM)?",
+    "options": [
+      "1. It does not regulate this area",
+      "2. It criminalizes production, distribution, possession, and intentional access of CSEM",
+      "3. It only gives ethical guidance",
+      "4. It only bans uploads to social media"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "What is the treatment of money laundering linked to cybercrime in the Convention?",
+    "options": [
+      "1. It is not covered",
+      "2. It criminalizes concealing or transferring assets derived from cybercrime",
+      "3. It treats it as a civil matter",
+      "4. It only applies to cash transactions"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Does the Convention mandate all states to use the same cybersecurity software?",
+    "options": [
+      "1. Yes, UN-approved software is mandatory",
+      "2. No, it provides legal framework without prescribing technical standards",
+      "3. Yes, open-source only",
+      "4. Yes, commercial antivirus only"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "What is the purpose of the 'expedited preservation of data' measure?",
+    "options": [
+      "1. To perform regular backups",
+      "2. To require service providers to preserve relevant data for investigation purposes temporarily",
+      "3. To delete data to protect privacy",
+      "4. To move data abroad proactively"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "What is the usual duration allowed for data preservation under the Convention?",
+    "options": [
+      "1. Up to 90 days, extendable by national law",
+      "2. Fixed 7 days, no extension",
+      "3. 365 days mandatory",
+      "4. There is no such concept"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "What is a 'production order' used for?",
+    "options": [
+      "1. To compel a person or service provider to produce electronic data or subscriber info lawfully held",
+      "2. To authorize real-time interception of communications",
+      "3. To authorize home search",
+      "4. To seize physical property"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "When is search and seizure of electronic data permitted under the Convention?",
+    "options": [
+      "1. When national law authorizes it to seek and seize relevant digital evidence",
+      "2. Anytime without legal grounds",
+      "3. Only for printed materials",
+      "4. Only for traditional financial crimes"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "What conditions apply to real-time collection of content data (interception)?",
+    "options": [
+      "1. None — it may be done freely",
+      "2. Only verbal request by investigator",
+      "3. Must comply with national law and human rights safeguards",
+      "4. Always notify the target immediately"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "What is the principal function of the 24/7 contact network under the Convention?",
+    "options": [
+      "1. To issue antivirus licenses",
+      "2. To facilitate urgent inter-state requests for data preservation and cooperation",
+      "3. To penalize telecom operators",
+      "4. To publish scam alerts"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "What is the role of the central authority for mutual legal assistance (MLA)?",
+    "options": [
+      "1. To receive, send, and coordinate MLA requests between states",
+      "2. To manage domain name registration",
+      "3. To issue cybersecurity certificates",
+      "4. To provide cloud storage"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Under what circumstances may a state refuse mutual legal assistance (MLA)?",
+    "options": [
+      "1. If the request would seriously impair its sovereignty, security, or public order",
+      "2. If the requesting country speaks a different language",
+      "3. If the crime involves the Internet",
+      "4. If the suspect resides abroad"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Can information obtained through MLA be used for purposes other than originally requested?",
+    "options": [
+      "1. Always permitted",
+      "2. Never permitted",
+      "3. Only for the original purpose or under conditions imposed by the providing state",
+      "4. Freely at the discretion of the recipient"
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "How does the Convention ensure protection of personal data and human rights?",
+    "options": [
+      "1. It ignores human rights issues",
+      "2. It emphasizes compliance with national and international human rights obligations",
+      "3. It requires a single global data protection law",
+      "4. It only applies to developed countries"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "When does the Convention enter into force?",
+    "options": [
+      "1. After 10 signatures",
+      "2. 90 days after 40 ratifications or accessions",
+      "3. By UN Security Council resolution",
+      "4. Once all G20 countries sign"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "What is the withdrawal mechanism from the Convention?",
+    "options": [
+      "1. One year prior written notice to the UN Secretary-General",
+      "2. Immediate withdrawal without notice",
+      "3. Requires approval from other member states",
+      "4. 30 days' notice"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "What must service providers do under valid expedited preservation requests?",
+    "options": [
+      "1. Delete data to free disk space",
+      "2. Preserve specified data intact and confidential",
+      "3. Publish the preserved data",
+      "4. Transfer it abroad"
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "What is the main purpose of expedited disclosure of traffic data?",
+    "options": [
+      "1. To quickly identify routes, origin/destination, and guide jurisdictional decisions",
+      "2. To obtain message contents",
+      "3. To block user accounts",
+      "4. To shut down Internet services"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "What data types can production orders target?",
+    "options": [
+      "1. Subscriber and electronic data held lawfully by persons or providers",
+      "2. Only real-time content data",
+      "3. Only printed documents",
+      "4. Only state-generated data"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Search and seizure of electronic data may include what measure?",
+    "options": [
+      "1. Copying stored data to preserve evidence",
+      "2. Always seizing physical hardware",
+      "3. Viewing data only without copying",
+      "4. Only unencrypted data"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "What is the purpose of real-time collection of traffic data?",
+    "options": [
+      "1. To record communication parameters (source, destination, timing) useful in investigations",
+      "2. To capture message content",
+      "3. To permanently block Internet",
+      "4. To identify users without legal basis"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "When is real-time interception of content allowed?",
+    "options": [
+      "1. When permitted under national law and consistent with human rights",
+      "2. At any time investigators wish",
+      "3. Only with user consent",
+      "4. Never, per Convention"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Which refusal ground for MLA is valid under the Convention?",
+    "options": [
+      "1. If the request would seriously affect sovereignty or security",
+      "2. If countries are not neighbors",
+      "3. If the case involves advanced technology",
+      "4. If there is a time zone difference"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "What is the principle governing use of information from MLA?",
+    "options": [
+      "1. Only for stated purpose or agreed conditions",
+      "2. Free use for all domestic matters",
+      "3. Must delete after first use",
+      "4. Must be published in international court"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "What type of requests can the 24/7 contact point support?",
+    "options": [
+      "1. Urgent preservation of electronic data in investigations",
+      "2. Allocating Internet bandwidth",
+      "3. Telecom licensing",
+      "4. IT security certification"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "In an emergency cooperation scenario, what does the Convention encourage?",
+    "options": [
+      "1. Rapid communication between contact points to avoid data loss",
+      "2. Halting investigations pending treaties",
+      "3. Only paper correspondence",
+      "4. Ignoring national laws"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Does the Convention apply to traditional crimes committed via ICT means?",
+    "options": [
+      "1. Yes, when traditional crimes are executed via ICT systems",
+      "2. Only new cybercrimes",
+      "3. Never to traditional crimes",
+      "4. Only when large financial harm occurs"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "What bases of jurisdiction may a state assert under the Convention?",
+    "options": [
+      "1. Territory, offender nationality, or registered vessel/aircraft",
+      "2. Only victim's residence",
+      "3. Only server location",
+      "4. Only when profit is obtained"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "What guiding principles must investigative powers respect under the Convention?",
+    "options": [
+      "1. Necessity, proportionality, legality, and human rights safeguards",
+      "2. Collect as much data as possible",
+      "3. Disregard privacy for speed",
+      "4. Follow only international norms"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Which forms of international cooperation are typically included under the Convention?",
+    "options": [
+      "1. Executing search/seizure, gathering testimony, and providing records or data",
+      "2. Issuing visas for investigators",
+      "3. Donating technology to states",
+      "4. Recruiting IT personnel"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "What is the key difference between data preservation and asset freezing/seizure?",
+    "options": [
+      "1. Preservation targets electronic data; freezing concerns assets or tangible property",
+      "2. They are identical",
+      "3. Both only apply to real-time data",
+      "4. Neither appears in the Convention"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "When transferring electronic evidence across borders, what must be observed?",
+    "options": [
+      "1. Chain of custody, integrity, authenticity, and local evidentiary rules",
+      "2. Free public dissemination online",
+      "3. Only a summary is enough",
+      "4. Must translate into all UN languages"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Is real-time interception allowed for all crimes?",
+    "options": [
+      "1. Only where authorized by national law and consistent with human rights",
+      "2. Even for minor administrative violations",
+      "3. Only for traffic offences",
+      "4. Automatically upon foreign request"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "What must service providers do when receiving a lawful order?",
+    "options": [
+      "1. Comply confidentially under law",
+      "2. Ignore it if client is special",
+      "3. Publish it online",
+      "4. Only respond for a fee"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Does the Convention require capacity building for law enforcement?",
+    "options": [
+      "1. Yes, it encourages training, technical assistance, and sharing best practices",
+      "2. No, it leaves this optional",
+      "3. Only hardware donations",
+      "4. Only trains private sector"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "What is emphasized by the Convention about handling personal data?",
+    "options": [
+      "1. Investigative measures must include safeguards and use-limitation",
+      "2. Broad data collection is preferable",
+      "3. Privacy is irrelevant",
+      "4. All states must adopt GDPR"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Does the Convention fix a uniform time limit for freezing or seizing assets?",
+    "options": [
+      "1. No, it depends on national law and procedures",
+      "2. Always 90 days",
+      "3. Always 7 days",
+      "4. Always 30 days"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "If a state cannot fully comply with an MLA request, what is encouraged?",
+    "options": [
+      "1. Consult to find alternative measures or clarify conditions",
+      "2. Refuse outright without explanation",
+      "3. Delegate to private sector",
+      "4. Delete the request"
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "How does the Convention treat extradition?",
+    "options": [
+      "1. Based on existing treaties or reciprocity, following domestic law",
+      "2. Prohibits extradition in all cases",
+      "3. Mandates extradition without legal basis",
+      "4. Only via international courts"
+    ],
+    "correct_option": 1
+  }
+]
